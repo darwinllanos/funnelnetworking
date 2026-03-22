@@ -56,7 +56,7 @@ export function CTASection() {
               {/* Contact Options */}
               <div className="flex flex-wrap gap-4 pt-4">
                 <a 
-                  href="https://wa.me/1234567890" 
+                  href="https://wa.me/3163746711" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-accent text-accent-foreground font-medium hover:opacity-90 transition-opacity"
@@ -65,7 +65,7 @@ export function CTASection() {
                   WhatsApp Directo
                 </a>
                 <a 
-                  href="tel:+1234567890"
+                  href="tel:+3163746711"
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-full border border-border text-foreground font-medium hover:bg-secondary transition-colors"
                 >
                   <Phone className="w-5 h-5" />
@@ -89,7 +89,7 @@ export function CTASection() {
                       <Input
                         id="name"
                         type="text"
-                        placeholder="María García"
+                        placeholder="Jhon Llanos"
                         value={formData.name}
                         onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                         required
@@ -103,7 +103,7 @@ export function CTASection() {
                       <Input
                         id="email"
                         type="email"
-                        placeholder="maria@ejemplo.com"
+                        placeholder="jhonllanos@gmail.com"
                         value={formData.email}
                         onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                         required
@@ -117,7 +117,7 @@ export function CTASection() {
                       <Input
                         id="phone"
                         type="tel"
-                        placeholder="+52 1 234 567 8900"
+                        placeholder="+57 316 3746711"
                         value={formData.phone}
                         onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                         required

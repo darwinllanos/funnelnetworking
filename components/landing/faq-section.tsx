@@ -22,7 +22,7 @@ const faqs = [
   },
   {
     question: "¿Es esto una pirámide o esquema ilegal?",
-    answer: "Absolutamente no. Somos una empresa legítima de network marketing con más de 30 años en el mercado, presente en más de 100 países. La diferencia clave es que nuestras ganancias vienen de la venta de productos reales de alta calidad, no del reclutamiento. Además, estamos regulados por las autoridades comerciales de cada país donde operamos."
+    answer: "Absolutamente no. Somos una empresa legítima de network marketing con años en el mercado, presente en varios países. La diferencia clave es que nuestras ganancias vienen de la venta de productos reales de alta calidad, no del reclutamiento. Además, estamos regulados por las autoridades comerciales de cada país donde operamos."
   },
   {
     question: "¿Qué pasa si no conozco a mucha gente?",
@@ -34,7 +34,7 @@ const faqs = [
   },
   {
     question: "¿Qué tipo de productos vendemos?",
-    answer: "Trabajamos con productos de bienestar, nutrición y cuidado personal de la más alta calidad. Son productos que las personas usan todos los días, lo que genera compras recurrentes. Además, están respaldados por estudios científicos y tienen garantía de satisfacción."
+    answer: "Trabajamos con productos de Ecommerce, inversiones y redes de mercadeo de la más alta calidad. Son productos que las personas usan todos los días, lo que genera compras recurrentes. Además, están respaldados por estudios científicos y tienen garantía de satisfacción."
   },
   {
     question: "¿Qué soporte recibiré al unirme?",

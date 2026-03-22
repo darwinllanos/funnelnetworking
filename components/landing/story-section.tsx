@@ -11,7 +11,7 @@ export function StorySection() {
           <div className="text-center mb-16">
             <p className="text-primary font-medium mb-4">Mi Historia</p>
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-card-foreground text-balance">
-              De la incertidumbre a la libertad financiera
+              De lo tradicional a lo extraordinario: Mi viaje de transformación personal
             </h2>
           </div>
 
@@ -20,7 +20,7 @@ export function StorySection() {
             <div className="relative">
               <div className="aspect-square rounded-3xl overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80"
+                  src="/equipoinnova.jpeg"
                   alt="Equipo de trabajo"
                   className="w-full h-full object-cover"
                 />
@@ -37,20 +37,20 @@ export function StorySection() {
             <div className="space-y-6">
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Hace 8 años, mi vida era muy diferente. Trabajaba más de 12 horas 
+                  Hace 6 años, mi vida era muy diferente. Trabajaba más de 8 horas 
                   diarias en un empleo que apenas me permitía llegar a fin de mes. 
-                  No tenía tiempo para mi familia, vivía estresada y sentía que 
+                  No tenía tiempo para mi familia, vivía estresado y sentía que 
                   mi vida se escapaba entre las manos.
                 </p>
                 <p>
-                  Un día, una amiga me habló de esta oportunidad. Al principio 
-                  fui escéptica, pero algo en mi corazón me dijo que tenía que 
+                  Un día, un amigo me habló de esta oportunidad. Al principio 
+                  fui escéptico, pero algo en mi corazón me dijo que tenía que 
                   intentarlo. <strong className="text-card-foreground">Fue la mejor decisión de mi vida.</strong>
                 </p>
                 <p>
-                  Hoy disfruto de libertad financiera, trabajo desde cualquier 
+                  Hoy disfruto de los negocios digitales, me puedo permitir trabajar desde cualquier 
                   parte del mundo y, lo más importante, tengo tiempo de calidad 
-                  con las personas que amo. He ayudado a más de 5,000 personas 
+                  con las personas que amo. Hemos ayudado junto con mi equipo a más de 5,000 personas 
                   a transformar sus vidas de la misma manera.
                 </p>
               </div>
@@ -59,18 +59,18 @@ export function StorySection() {
               <div className="border-l-2 border-primary/30 pl-6 space-y-6 mt-8">
                 <div className="relative">
                   <div className="absolute -left-8 w-4 h-4 rounded-full bg-primary" />
-                  <p className="text-sm text-muted-foreground">2017</p>
-                  <p className="font-semibold text-card-foreground">Comencé mi camino</p>
+                  <p className="text-sm text-muted-foreground">2024</p>
+                  <p className="font-semibold text-card-foreground">Me di cuenta que lo tradicional no me iba a llevar a donde quería</p>
                 </div>
                 <div className="relative">
                   <div className="absolute -left-8 w-4 h-4 rounded-full bg-primary/60" />
-                  <p className="text-sm text-muted-foreground">2019</p>
-                  <p className="font-semibold text-card-foreground">Alcancé el rango Diamond</p>
+                  <p className="text-sm text-muted-foreground">2025</p>
+                  <p className="font-semibold text-card-foreground">Tuve la oportunidad de unirme al equipo de INNOVA</p>
                 </div>
                 <div className="relative">
                   <div className="absolute -left-8 w-4 h-4 rounded-full bg-accent" />
-                  <p className="text-sm text-muted-foreground">2025</p>
-                  <p className="font-semibold text-card-foreground">+5,000 vidas transformadas</p>
+                  <p className="text-sm text-muted-foreground">2026</p>
+                  <p className="font-semibold text-card-foreground"> Embajador con +5,000 vidas transformadas junto con mi equipo</p>
                 </div>
               </div>
             </div>

@@ -60,15 +60,15 @@ export function HeroSection() {
             <div className="flex flex-wrap gap-8 justify-center lg:justify-start pt-4">
               <div className="text-center">
                 <p className="text-3xl font-bold text-foreground">5,000+</p>
-                <p className="text-sm text-muted-foreground">Vidas transformadas</p>
+                <p className="text-sm text-muted-foreground">Vidas transformadas en INNOVA</p>
               </div>
               <div className="text-center">
-                <p className="text-3xl font-bold text-foreground">8 años</p>
+                <p className="text-3xl font-bold text-foreground">1 año</p>
                 <p className="text-sm text-muted-foreground">De experiencia</p>
               </div>
               <div className="text-3xl font-bold text-foreground text-center">
-                <p>Top 1%</p>
-                <p className="text-sm text-muted-foreground font-normal">De la compañía</p>
+                <p>Embajador</p>
+                <p className="text-sm text-muted-foreground font-normal">De la compañía INNOVA</p>
               </div>
             </div>
           </div>
@@ -78,8 +78,8 @@ export function HeroSection() {
             <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl">
               <div className="aspect-[4/5] bg-secondary relative">
                 <img
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80"
-                  alt="Emprendedora exitosa"
+                  src="/jhonllanos.jpg"
+                  alt="Emprendedor"
                   className="w-full h-full object-cover"
                 />
                 {/* Overlay Card */}
@@ -89,8 +89,8 @@ export function HeroSection() {
                       MC
                     </div>
                     <div>
-                      <p className="font-semibold text-card-foreground">María Carmen López</p>
-                      <p className="text-sm text-muted-foreground">Líder Diamond | Coach de Vida</p>
+                      <p className="font-semibold text-card-foreground">Jhon Darwin Llanos Narvaez</p>
+                      <p className="text-sm text-muted-foreground">Coach de Vida | Trader</p>
                     </div>
                   </div>
                 </div>

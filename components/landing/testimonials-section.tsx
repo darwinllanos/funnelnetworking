@@ -6,31 +6,31 @@ import { Button } from "@/components/ui/button";
 
 const testimonials = [
   {
-    name: "Roberto García",
-    role: "Ex-Contador | Ahora Líder Platino",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
-    quote: "Después de 20 años en un trabajo que no me llenaba, encontré en este negocio la posibilidad de ser mi propio jefe. En solo 18 meses logré igualar mi sueldo anterior y hoy gano el triple trabajando desde casa.",
-    results: "Ingresos x3 en 18 meses"
+    name: "Paula Sarmiento",
+    role: "Empleada McDonald's | modelo UGC INNOVA",
+    image: "/testimonio-1.png",
+    quote: "Trabajaba en un call-center con horarios agotadores y poco reconocimiento. Desde que me uní a este negocio, no solo tripliqué mis ingresos en 18 meses, sino que también encontré una comunidad de apoyo que me ha ayudado a crecer personal y profesionalmente.",
+    results: "Ingresos x3"
   },
   {
-    name: "Ana Martínez",
-    role: "Madre de 3 | Líder Diamond",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
-    quote: "Como mamá, mi prioridad siempre fue estar presente para mis hijos. Este negocio me dio la flexibilidad que necesitaba. Ahora trabajo mientras ellos están en la escuela y tenemos las tardes libres juntos.",
+    name: "Thomas Vargas",
+    role: "Universitario | Networker top 100",
+    image: "/testimonio-2.png",
+    quote: "Empecé este negocio mientras estudiaba, buscando una forma de generar ingresos sin sacrificar mis estudios. En menos de 2 años, no solo logré pagar mi carrera, sino que también alcancé la libertad financiera que siempre soñé.",
     results: "Libertad de tiempo total"
   },
   {
-    name: "Carlos Mendoza",
-    role: "Ex-Ingeniero | Top Producer",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
-    quote: "Era escéptico al principio, pero los resultados hablan por sí solos. El sistema funciona, el equipo te apoya y los productos se venden solos. Es cuestión de ser consistente y confiar en el proceso.",
+    name: "Cata Castiblanco",
+    role: "Emprendedora | Co fundadora de su equipo",
+    image: "/testimonio-3.png",
+    quote: "Con 19 años, me uní a este negocio buscando una oportunidad de crecimiento. En solo 12 meses, no solo dupliqué mis ingresos, sino que también tuve la oportunidad de viajar por el mundo gracias a los resultados que obtuve con mi equipo.",
     results: "Viajes pagados x5"
   },
   {
-    name: "Laura Sánchez",
-    role: "Ex-Maestra | Líder Esmeralda",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-    quote: "Dejé mi trabajo como maestra porque este negocio me permitió ganar más ayudando a otros a crecer. Lo mejor es que sigo enseñando, pero ahora enseño a las personas a construir su libertad financiera.",
+    name: "Sebastian Salas",
+    role: "Tatuador | Lider de su equipo",
+    image: "/testimonio-4.png",
+    quote: "Después de años trabajando como tatuador, me uní a este negocio buscando una forma de diversificar mis ingresos. En menos de 6 meses, no solo logré renunciar a mi empleo, sino que también construí un equipo sólido que me ha permitido alcanzar la libertad financiera.",
     results: "Renunció a su empleo en 1 año"
   }
 ];

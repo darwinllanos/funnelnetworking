@@ -33,11 +33,9 @@ export function Navbar() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <a href="#" className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center text-primary-foreground font-bold">
-              U
-            </div>
+            <img src="/jhonllanos.jpg" alt="Jhon Llanos" className="w-10 h-10 rounded-full object-cover" />
             <span className={`font-bold text-lg hidden sm:block ${isScrolled ? 'text-foreground' : 'text-foreground'}`}>
-              TU NOMBRE
+              Jhon Llanos
             </span>
           </a>
 

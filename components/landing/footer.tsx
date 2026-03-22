@@ -3,10 +3,10 @@
 import { Instagram, Facebook, Youtube, Linkedin } from "lucide-react";
 
 const socialLinks = [
-  { icon: Instagram, href: "#", label: "Instagram" },
+  { icon: Instagram, href: "https://www.instagram.com/darwinll11?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", label: "Instagram" },
   { icon: Facebook, href: "#", label: "Facebook" },
   { icon: Youtube, href: "#", label: "YouTube" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/jhonllanosfullstack", label: "LinkedIn" },
 ];
 
 const quickLinks = [
@@ -25,16 +25,14 @@ export function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-3">
-              <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center text-primary-foreground font-bold text-lg">
-                MC
-              </div>
+              <img src="/jhonllanos.jpg" alt="Jhon Llanos" className="w-12 h-12 rounded-full object-cover" />
               <div>
-                <p className="font-bold text-lg">María Carmen López</p>
-                <p className="text-sm text-background/60">Líder Diamond</p>
+                <p className="font-bold text-lg">Jhon Darwin Llanos Narvaez</p>
+                <p className="text-sm text-background/60">Coach de vida</p>
               </div>
             </div>
             <p className="text-background/70 leading-relaxed">
-              Transformando vidas a través del network marketing desde 2017. 
+              Transformando vidas a través del network marketing. 
               Mi misión es ayudarte a alcanzar la libertad que mereces.
             </p>
           </div>
@@ -72,8 +70,8 @@ export function Footer() {
               ))}
             </div>
             <div className="space-y-2 text-background/70">
-              <p>Email: maria@ejemplo.com</p>
-              <p>WhatsApp: +52 1 234 567 8900</p>
+              <p>Email: jhondarwinllanosnarvaez@gmail.com</p>
+              <p>WhatsApp: +57 316 374 6711</p>
             </div>
           </div>
         </div>
@@ -81,7 +79,7 @@ export function Footer() {
         {/* Bottom */}
         <div className="pt-8 border-t border-background/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-background/50">
-            © {new Date().getFullYear()} María Carmen López. Todos los derechos reservados.
+            © {new Date().getFullYear()} Jhon Darwin Llanos Narvaez. Todos los derechos reservados.
           </p>
           <div className="flex gap-6 text-sm text-background/50">
             <a href="#" className="hover:text-background transition-colors">
