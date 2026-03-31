@@ -25,7 +25,7 @@ export function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-3">
-              <img src="/jhonllanos.jpg" alt="Jhon Llanos" className="w-12 h-12 rounded-full object-cover" />
+              <img src="/jhonllanos.png" alt="Jhon Llanos" className="w-12 h-12 rounded-full object-cover" />
               <div>
                 <p className="font-bold text-lg">Jhon Darwin Llanos Narvaez</p>
                 <p className="text-sm text-background/60">Coach de vida</p>

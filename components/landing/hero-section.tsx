@@ -78,7 +78,7 @@ export function HeroSection() {
             <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl">
               <div className="aspect-[4/5] bg-secondary relative">
                 <img
-                  src="/jhonllanos.jpg"
+                  src="/jhonllanos.png"
                   alt="Emprendedor"
                   className="w-full h-full object-cover"
                 />
