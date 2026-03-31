@@ -90,7 +90,7 @@ export function HeroSection() {
                     </div>
                     <div>
                       <p className="font-semibold text-card-foreground">Jhon Darwin Llanos Narvaez</p>
-                      <p className="text-sm text-muted-foreground">Coach de Vida | Trader</p>
+                      <p className="text-sm text-muted-foreground">Trader | Desarrollo mental y financiero | Embajador INNOVA</p>
                     </div>
                   </div>
                 </div>
